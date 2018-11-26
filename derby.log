@@ -1,0 +1,31 @@
+Mon Nov 26 17:11:38 WET 2018 : Apache Derby Network Server - 10.11.1.2 - (1629631) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Mon Nov 26 17:11:38 WET 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-0167-5101-47a9-ffffc5c4c828 
+on database directory /Users/ruisantos/Documents/TP_PD_18-19/TP_PD_DataBase with class loader sun.misc.Launcher$AppClassLoader@66d3c617 
+Loaded from file:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_131-b11
+user.dir=/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/db
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.14.1
+derby.system.home=/Users/ruisantos/Documents/TP_PD_18-19
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon Nov 26 17:11:39 WET 2018:
+Shutting down instance a816c00e-0167-5101-47a9-ffffc5c4c828 on database directory /Users/ruisantos/Documents/TP_PD_18-19/TP_PD_DataBase with class loader sun.misc.Launcher$AppClassLoader@66d3c617 
+Mon Nov 26 17:11:39 WET 2018 Thread[DRDAConnThread_3,5,main] (DATABASE = TP_PD_DataBase), (DRDAID = {2}), Database 'TP_PD_DataBase' shutdown.
+----------------------------------------------------------------
+Mon Nov 26 17:11:45 WET 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a65c80ac-0167-5101-47a9-ffffc5c4c828 
+on database directory /Users/ruisantos/Documents/TP_PD_18-19/TP_PD_DataBase with class loader sun.misc.Launcher$AppClassLoader@66d3c617 
+Loaded from file:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_131-b11
+user.dir=/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/db
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.14.1
+derby.system.home=/Users/ruisantos/Documents/TP_PD_18-19
+Database Class Loader started - derby.database.classpath=''
