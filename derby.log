@@ -29,3 +29,8 @@ os.arch=x86_64
 os.version=10.14.1
 derby.system.home=/Users/ruisantos/Documents/TP_PD_18-19
 Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon Nov 26 22:29:42 WET 2018: Shutting down Derby engine
+----------------------------------------------------------------
+Mon Nov 26 22:29:43 WET 2018:
+Shutting down instance a65c80ac-0167-5101-47a9-ffffc5c4c828 on database directory /Users/ruisantos/Documents/TP_PD_18-19/TP_PD_DataBase with class loader sun.misc.Launcher$AppClassLoader@66d3c617 
